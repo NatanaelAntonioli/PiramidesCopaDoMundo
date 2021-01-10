@@ -1,5 +1,5 @@
 ## Esse é um código usado no vídeo Desmistificando: Pirâmide da Copa do Mundo,
-## que provavelmente sairá em janeiro de 2021. Se você chegou nessed diretório 
+## que provavelmente sairá em janeiro de 2021. Se você chegou nesse diretório 
 ## depois dessa data, procure o vídeo no canal Fábrica de Noobs para encontrar documentação.
 
 # --------------- PRELIMINARES ------------------------
